@@ -1,0 +1,3 @@
+[submodule "foliage"]
+	path = foliage
+	url = https://github.com/effector/foliage.git
