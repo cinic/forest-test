@@ -15,7 +15,9 @@
   },
   "dependencies": {
     "effector": "^21.7.5",
-    "forest": "^0.19.6"
+    "foliage": "^0.103.1",
+    "forest": "^0.19.6",
+    "forest-url-router": "^1.0.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.8",
