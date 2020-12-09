@@ -1,0 +1,13 @@
+{
+  "name": "forest-test",
+  "version": "1.0.0",
+  "repository": "https://github.com/cinic/forest-test",
+  "author": "Alexander Andreev <cinic.rus@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "foliage": "^0.103.1"
+  },
+  "devDependencies": {},
+  "peerDependencies": {}
+}
